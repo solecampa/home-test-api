@@ -24,8 +24,6 @@ Before you begin, ensure you have the following installed on your system:
 
 ```sh
 git clone https://github.com/solecampa/home-test-api
-cd home-test-api
-cd home-test-api
 ``` 
 Execute 
 
